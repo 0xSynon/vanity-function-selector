@@ -1,0 +1,24 @@
+{
+  "name": "vanity-function-selector",
+  "version": "0.0.1",
+  "description": "CLI tool to help you find a suffix for your solidity functon name in order to affect its 4 bytes selector.",
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "abi",
+    "selector"
+  ],
+  "homepage": "https://github.com/0xSynon/vanity-function-selector",
+  "bugs": {
+    "url": "https://github.com/0xSynon/vanity-function-selector/issues",
+    "email": "dev@devhunt.eu"
+  },
+  "author": "0xSynon <dev@devhunt.eu>",
+  "repository": "github:0xSynon/vanity-function-selector",
+  "main": "index.js",
+  "bin": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "5"
+  }
+}
